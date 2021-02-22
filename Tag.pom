@@ -2,24 +2,24 @@
 <project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.github.maulvi</groupId>
+  <groupId>com.github.mehmetgokkaya</groupId>
   <artifactId>RippleEffects</artifactId>
   <version>1.0.3</version>
   <packaging>aar</packaging>
-  <name>maulvi/RippleEffects</name>
-  <url>https://github.com/maulvi/RippleEffects</url>
+  <name>mehmetgokkaya/RippleEffects</name>
+  <url>https://github.com/mehmetgokkaya/RippleEffects</url>
   <inceptionYear>2020</inceptionYear>
   <developers>
     <developer>
-      <id>maulvi</id>
+      <id>mehmetgokkaya</id>
       <name></name>
       <email></email>
     </developer>
   </developers>
   <scm>
-    <connection>scm:git://github.com/maulvi/RippleEffects.git</connection>
-    <developerConnection>scm:git://github.com/maulvi/RippleEffects.git</developerConnection>
-    <url>git://github.com/maulvi/RippleEffects.git</url>
+    <connection>scm:git://github.com/mehmetgokkayalvi/RippleEffects.git</connection>
+    <developerConnection>scm:git://github.com/mehmetgokkaya/RippleEffects.git</developerConnection>
+    <url>git://github.com/mehmetgokkaya/RippleEffects.git</url>
   </scm>
   <dependencies>
     <dependency>
